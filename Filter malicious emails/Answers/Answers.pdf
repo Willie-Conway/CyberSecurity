@@ -1,0 +1,59 @@
+Answers:
+
+1. a and d
+
+- The sender is using a different domain.
+
+  Two clues in the message header that indicate that this is a phishing attempt
+  are that there is a mispelling in the subject line and the sender is using a 
+  different domain. Phishing emails commonly contain glaring spelling and grammatical
+  errors. Another typical sign of physing is when messages come external domains, like
+  a personal Gmail account.
+
+
+- There is a mispelling in the subject line.
+
+  Two clues in the message header that indicate that this is a misspelling
+  in the subject line and the sender is using a different domain. Phising
+  emails commonly contain glaring spelling and grammatical errors. Another
+  typical sign of phising is when messages come from external domains, like
+  personal Gmail account.
+
+
+2. a, b,  and d
+
+- The brand labeling
+
+  The brand labeling, the download options for major operating
+  systems, and the title of the group, are all details that make
+  this message appear legitimate.
+
+- The download options for major operating systems
+
+  The brand labeling, the download options for major operating
+  systems, and the title of the group, are all details that make
+  this message appear legitimate.
+  
+
+- The title of the group
+
+  The brand labeling, the download options for major operating
+  systems, and the title of the group, are all details that make
+  this message appear legitimate.
+
+  
+3. d
+
+- The URL
+
+  The URL is the main clue that indicates this form is malicious. Threat actors
+  make this difficult to spot by design. When accessing Saas services, like 
+  Microsoft applications, the URL typically includes the organization's domain.
+
+4. a
+
+- Yes
+
+Pjyshing emails come in many forms and can bve difficult to spot when they are well disguised.
+Security analysts routinely handle email analysis and remediation. Identifying malicious emails
+can be much easier when you know which clues to look for.
