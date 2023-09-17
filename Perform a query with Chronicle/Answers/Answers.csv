@@ -1,0 +1,74 @@
+Answers:
+
+1. a 
+
+- Drop site for logs or stolen credentials
+
+  The insight card categorizes the behavior of 
+  signin.office365x24.com as drop site for logs
+  or stolen credentials. This means that this
+  domain has been reported to send and receive
+  stolen credentials or other data.
+
+
+- There is a mispelling in the subject line.
+
+  Two clues in the message header that indicate that this is a misspelling
+  in the subject line and the sender is using a different domain. Phising
+  emails commonly contain glaring spelling and grammatical errors. Another
+  typical sign of phising is when messages come from external domains, like
+  personal Gmail account.
+
+
+2. a, b,  and d
+
+- coral-alvarez-pc
+
+  roger-spence-pc, emil-palmer-pc, and coral-alvarez-pc
+  are three of the six assets that accessed this domain.
+
+- roger-spence-pc
+
+  roger-spence-pc, emil-palmer-pc, and coral-alvarez-pc
+  are three of the six assets that accessed this domain.
+  
+
+- emil-palmer-pc
+
+  roger-spence-pc, emil-palmer-pc, and coral-alvarez-pc
+  are three of the six assets that accessed this domain.
+
+  
+3. c
+
+- 40.100.174.34
+
+  signin.office365x24.com resolves to the IP address 40.100.174.34.
+
+
+4. a
+
+- 2
+
+  Six GET requests were made to the signin.office365x24.com domain but only two POST requests were sent.
+
+
+5. d
+
+  - http://signin.office365x24.com/login.php
+
+    The POST requests were sent to http://signin.office365x24.com/login.php.
+
+
+6. b and d
+
+  - signin.accounts-google.com
+
+
+    40.100.174.34 resolves to both signin.accounts-google.com and signin.office365x24.com
+
+
+  - signin.office365x24.com
+
+
+   40.100.174.34 resolves to both signin.accounts-google.com and signin.office365x24.com
