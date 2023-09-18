@@ -1,0 +1,34 @@
+Answers:
+
+1. c
+
+- Over 100,000
+
+  Entering a search for all events in the main index retrieves 109,864 events.
+
+
+
+2. b
+
+- host
+
+  The host field specifies the name of a host, such as a network device
+  or other system, from which an event originates. The sourcetype field
+  determines how data is formatted.
+
+
+
+  
+3. d
+
+- vendor_sales
+
+  The vendor_sales host provides information about Buttercup Games'
+  retail sales, such as the number of products sold.
+
+
+4. a
+
+- More than 100
+
+There are over 300 failed SSH logins for the root account on the mail server.
