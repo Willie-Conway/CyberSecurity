@@ -97,7 +97,7 @@ Each of these folders contains learning modules (Mod_1 to Mod_5) from the follow
 ## 📬 Contact
 
 Got questions or want to collaborate?  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/willieconway) or visit my portfolio at `[Portfolio-Website](https://willie-conway.github.io/Portfolio-Website/)`.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/willieconway) or visit my portfolio at [Portfolio-Website](https://willie-conway.github.io/Portfolio-Website/).
 
 ---
 
